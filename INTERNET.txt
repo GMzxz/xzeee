@@ -1,0 +1,23 @@
+{"Version":"1.2",
+"Url":"https://github.com/GMzxz/xzeee/raw/main/INTERNET.zip" ,
+"Changelog":"INTERNETVPNFREE
+รายการอัพเดต
+เพิ่มไฟล์ dtac truemove
+กรุณาล็อคแอปก่อนที่
+จะเล่นเกมส์ถ้าไม่อยากให้แอปหลุด
+ต้องมีอินเตอร์เน็ต
+ในการอัปเดตทุกครั้ง
+กดคำว่า อัปเดต",
+ 
+ 
+ 
+ 
+ 
+
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
