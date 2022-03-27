@@ -1,0 +1,27 @@
+{"Version":"1.8",
+"Url":"https://github.com/GMzxz/xzeee/blob/main/INTERNET.zip?raw=true" ,
+"Changelog":"INTERNETVPNFREE
+รายการอัพเดต
+เพิ่มไฟล์ 
+บริการ vpn ความเร็วสูง
+
+ซิมที่ใช้ได้ TrueMove AIS dtac
+
+กรุณาล็อคแอปก่อนที่
+จะเล่นเกมส์ถ้าไม่อยากให้แอปหลุด
+ต้องมีอินเตอร์เน็ต
+ในการอัปเดตทุกครั้ง
+กดคำว่า อัปเดต",
+ 
+ 
+ 
+ 
+ 
+
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
