@@ -1,0 +1,29 @@
+{"Version":"2.1",
+"Url":"https://github.com/GMzxz/xzeee/blob/main/INTERNET.zip?raw=true" ,
+"Changelog":"INTERNETVPNFREE
+รายการอัพเดต
+update server free
+app นี้ใช้ได้ทุกซิม
+ฟรีทุกเซิร์ฟเวอร์
+
+ซิมที่ใช้ได้ TrueMove AIS dtac
+ผู้ดูแล server เฟส นักสืบ ตัวน้อย
+
+กรุณาล็อคแอปก่อนที่
+จะเล่นเกมส์ถ้าไม่อยากให้แอปหลุด
+ต้องมีอินเตอร์เน็ต
+ในการอัปเดตทุกครั้ง
+กดคำว่า อัปเดต",
+ 
+ 
+ 
+ 
+ 
+
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
